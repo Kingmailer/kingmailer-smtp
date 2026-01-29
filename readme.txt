@@ -18,7 +18,7 @@ Since 2017 Kingmailer WordPress SMTP has powered thousands of websites worldwide
 
 Kingmailer's mission is **affordable SMTP for Everyone**. We are working day and night to give the highest quality SMTP email delivery service to everyone. 
 
-Kingmailer [WordPress SMTP](https://kingmailer.co/) plugin contains the important settings fields to manage your SMTP. You will need to add/verify your domain first in your Kingmailer-account.
+Kingmailer [WordPress SMTP](https://kingsmtp.com/) plugin contains the important settings fields to manage your SMTP. You will need to add/verify your domain first in your Kingmailer-account.
 
 #### AFFORDABLE PRICING
 While you can use our service for free, upgrades only cost **$5 p/month**. This will help you save a lot in monthly costs and at the same time help you deliver your emails to users' inbox. We also accept Bitcoin.

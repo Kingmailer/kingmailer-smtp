@@ -116,7 +116,7 @@ Yes.
 
 = How or where do I get a Kingmailer account? =
 
-1. Visit [Kingmailer.co](https://Kingmailer.co) click on sign up.
+1. Visit [KingSMTP.com](https://kingsmtp.com/) click on sign up.
 1. Click on the link in the activation email to activate your account
 1. You now have a Kingmailer-account.
 
